@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<empresa>
+	<empleado>
+		<apellido1>Bilbao</apellido1>
+		<apellido2>García</apellido2>
+		<nombre>Alberto</nombre>
+		<salario>1500</salario>
+	</empleado>
+	<empleado>
+		<apellido1>Bengoa</apellido1>
+		<apellido2>Urizar</apellido2>
+		<nombre>Angel</nombre>
+		<salario>2000</salario>
+	</empleado>
+</empresa> 
